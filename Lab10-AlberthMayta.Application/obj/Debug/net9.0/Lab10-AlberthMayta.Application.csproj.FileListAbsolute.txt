@@ -1,0 +1,15 @@
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\bin\Debug\net9.0\Lab10-AlberthMayta.Application.deps.json
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\bin\Debug\net9.0\Lab10-AlberthMayta.Application.dll
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\bin\Debug\net9.0\Lab10-AlberthMayta.Application.pdb
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\bin\Debug\net9.0\Lab10-AlberthMayta.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\bin\Debug\net9.0\Lab10-AlberthMayta.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-Al.01E67A97.Up2Date
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.dll
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\refint\Lab10-AlberthMayta.Application.dll
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\Lab10-AlberthMayta.Application.pdb
+C:\Users\Usuario\RiderProjects\Lab10-AlberthMayta\Lab10-AlberthMayta.Application\obj\Debug\net9.0\ref\Lab10-AlberthMayta.Application.dll
